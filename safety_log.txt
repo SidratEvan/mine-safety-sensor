@@ -1,0 +1,25 @@
+[16-09-2025 22:43:35] (Cycle 1)
+Temperature: 1 C -> OK
+Methane: 0.47 % -> Safe
+Load: 3 % -> Safe
+--------------------------
+[16-09-2025 22:43:37] (Cycle 2)
+Temperature: 27 C -> OK
+Methane: 2.14 % -> ALERT: Unsafe
+Load: 7 % -> Safe
+--------------------------
+[16-09-2025 22:43:39] (Cycle 3)
+Temperature: 17 C -> OK
+Methane: 1.53 % -> ALERT: Unsafe
+Load: 65 % -> Safe
+--------------------------
+[16-09-2025 22:43:41] (Cycle 4)
+Temperature: 14 C -> OK
+Methane: 1.17 % -> ALERT: Unsafe
+Load: 45 % -> Safe
+--------------------------
+[16-09-2025 22:43:43] (Cycle 5)
+Temperature: 54 C -> ALERT: Too high!
+Methane: 0.61 % -> Safe
+Load: 70 % -> Safe
+--------------------------
