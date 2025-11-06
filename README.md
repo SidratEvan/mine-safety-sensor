@@ -1,4 +1,4 @@
-\# Mine Safety Sensor Monitor ⚒️
+\# Mine Safety Sensor Monitor 
 
 
 
